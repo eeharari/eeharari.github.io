@@ -849,3 +849,9 @@
     grid-template-columns: 1fr;
   }
 }
+[id*="teleport"], 
+[class*="teleport"], 
+.home-link3, 
+.home-container8 {
+  display: none !important;
+}
